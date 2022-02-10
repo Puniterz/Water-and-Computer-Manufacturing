@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Punit Pabla
+ * 09/02/22 
+ * waterpc.java
+ * ask user how many monitors they own, onec typed in the proper input it will calculator how much water was used to make those monitors
  */
 package waterpc;
 
